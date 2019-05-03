@@ -1,4 +1,4 @@
-# mall功能结构说明
+# 真食商城功能结构说明
 
 ## 后台管理系统
 
@@ -9,6 +9,9 @@
 ### 订单管理
 
 ![功能结构图-订单.jpg](https://github.com/macrozheng/mall/blob/master/document/resource/mind_order.jpg)
+### 商户管理
+
+![功能结构图-订单.jpg](https://github.com/macrozheng/mall/blob/master/document/resource/seller.jpg)
 
 ### 促销管理
 
